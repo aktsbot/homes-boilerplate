@@ -1,0 +1,62 @@
+[
+  {
+    "id": 100,
+    "name": "Posche home near Karamana",
+    "imageUrl":
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/one.jpg",
+    "price": 200,
+    "priceCurrency": "INR",
+    "lat": 8.4818,
+    "lng": 76.9657
+  },
+  {
+    "id": 101,
+    "name": "Fun cozy home for a getaway near Kaimanom",
+    "imageUrl":
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/two.jpg",
+    "price": 201,
+    "priceCurrency": "INR",
+    "lat": 8.524139,
+    "lng": 76.936638
+  },
+  {
+    "id": 102,
+    "name": "All round kickass home near Pappanamcode",
+    "imageUrl":
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/three.jpg",
+    "price": 202,
+    "priceCurrency": "INR",
+    "lat": 8.4701,
+    "lng": 76.9787
+  },
+  {
+    "id": 103,
+    "name": "Cool and trandy house seeking attention near Eastfort",
+    "imageUrl":
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/four.jpg",
+    "price": 203,
+    "priceCurrency": "INR",
+    "lat": 8.4845,
+    "lng": 76.9477
+  },
+  {
+    "id": 104,
+    "name": "Quiet home near Kowdiar",
+    "imageUrl":
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/five.jpg",
+    "price": 204,
+    "priceCurrency": "INR",
+    "lat": 8.522,
+    "lng": 76.9629
+  },
+  {
+    "id": 105,
+    "name": "Rich heritage home near Vazhuthacaud",
+    "imageUrl":
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/six.jpg",
+    "price": 205,
+    "priceCurrency": "INR",
+    "lat": 8.5005,
+    "lng": 76.9629
+  }
+]

@@ -43,7 +43,7 @@
     "id": 104,
     "name": "Quiet home near Kowdiar",
     "imageUrl":
-      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/five.jpg",
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/five.jpeg",
     "price": 204,
     "priceCurrency": "INR",
     "lat": 8.522,
@@ -53,7 +53,7 @@
     "id": 105,
     "name": "Rich heritage home near Vazhuthacaud",
     "imageUrl":
-      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/six.jpg",
+      "https://raw.githubusercontent.com/aktsbot/homes-boilerplate/master/images/six.jpeg",
     "price": 205,
     "priceCurrency": "INR",
     "lat": 8.5005,
